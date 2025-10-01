@@ -13,8 +13,7 @@ This project analyzes the Netflix dataset to uncover insights on:
 - Records: ~7,000 titles
 
 ## 🛠️ Tools Used
-- Power BI (Dashboard & Data Modeling)
-- Excel (Data Cleaning)
+- Power BI (Dashboard & Data Modeling,Data Cleaning)
 - DAX (Calculated Measures)
 
 ## ⚡ Key Insights
@@ -24,7 +23,8 @@ This project analyzes the Netflix dataset to uncover insights on:
 - Majority of content is TV-MA rating
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard](screenshots/overview_dashboard.png)
+![netflix](https://github.com/user-attachments/assets/e951e1a0-a40a-41a9-a69e-cc04d7db12d8)
+
 
 ## ▶️ Usage
 1. Download the `.pbix` file from this repo
